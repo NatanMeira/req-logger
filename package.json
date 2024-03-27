@@ -1,0 +1,20 @@
+{
+  "name": "req-logger",
+  "version": "1.0.0",
+  "description": "A Request Logger lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "logger",
+    "request",
+    "log",
+    "winston"
+  ],
+  "author": "Natan Meira",
+  "contributors": [
+    "filipelacerda2661@gmail.com"
+  ],
+  "license": "ISC"
+}
