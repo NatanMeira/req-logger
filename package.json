@@ -27,6 +27,7 @@
     "typescript": "^5.4.3"
   },
   "dependencies": {
-    "tsup": "^8.0.2"
+    "tsup": "^8.0.2",
+    "winston": "^3.13.0"
   }
 }
