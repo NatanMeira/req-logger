@@ -5,9 +5,7 @@ export const winstonLogger = Winston.createLogger({
   format: combine(
     timestamp({ format: "YYYY-MM-DD HH:mm:ss" }),
     json(),
-    prettyPrint({
-      colorize: true,
-    })
+    prettyPrint()
   ),
   transports: [new Winston.transports.Console()],
 });
